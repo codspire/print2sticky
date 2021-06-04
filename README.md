@@ -25,7 +25,7 @@
 
 There are only a few things that beat Post-it in its versatility and simplicity. Whether you are a [Post-it aficionado](https://youtu.be/BpWM0FNPZSs) or a novice note taker, you might find this handy dandy tool useful.
 
-> Simply print a template, put your sticky notes on it, create the rich content that goes on the stickies, and print!
+> Simply print a template, put your sticky notes on it, create rich sticky notes content online, and print!
 
 Use the personalized printed sticky notes to track your goals, inspire yourself with a powerful quote or just enjoy a viral meme.
 
