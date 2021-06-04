@@ -38,13 +38,13 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 [Letter Size](https://github.com/codspire/print2sticky/raw/develop/assets/Print2Sticky_Letter_Template.pdf)
 OR  [A4 Size](https://github.com/codspire/print2sticky/raw/develop/assets/Print2Sticky_A4_Template.pdf)
 
-### 2. Stick the Blank Post-It Notes on the Template
+### 2. Stick the Blank Post-it Notes on the Template
 
 ### 3. Load the Template Sheet in the Printer
 
 _Follow the instructions on the Template sheet while loading it in the printer tray._
 
-### 4. Use a Below Link to Create Rich Content For Your Post-It Notes
+### 4. Use a Below Link to Create Rich Content For Your Post-it Notes
 [Letter Size](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fcodspire%2Fprint2sticky%2Fdevelop%2Fassets%2FPrint2Sticky_Letter_Editable.drawio)  OR  [A4 Size](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fcodspire%2Fprint2sticky%2Fdevelop%2Fassets%2FPrint2Sticky_A4_Editable.drawio)
 
 ### 5. Print It
@@ -60,12 +60,12 @@ This is made possible by https://app.diagrams.net, one of the best opensource dr
 ### You Might Also Like
 
 - [Amazing Sticky Notes Art](https://jobmob.co.il/blog/sticky-notes-art)
-- [How to Create Compelling Post-It Notes](https://medium.com/graphicfacilitation/how-to-create-compelling-post-it-notes)
+- [How to Create Compelling Post-it Notes](https://medium.com/graphicfacilitation/how-to-create-compelling-post-it-notes)
 - [The History of Post-it Notes](https://www.stik2it.com/blog/the-history-of-postit-notes-the-accidents-that-led-to-the-invention-of-the-sticky-note-infographic)
 - [Spencer Silver, an Inventor of Post-it](https://www.nytimes.com/2021/05/13/business/spencer-silver-dead.html)
-- [The Post-It Note System to Achieve Your Dreams](https://www.inc.com/jim-schleckser/the-post-it-note-system-to-achieve-your-dreams.html)
-- [25 Post-It Note DIY Ideas](https://www.nobiggie.net/25-post-it-note-diy-ideas)
-- [Unusual Post-It Notes](https://theverybesttop10.com/unusual-post-it-notes)
+- [The Post-it Note System to Achieve Your Dreams](https://www.inc.com/jim-schleckser/the-post-it-note-system-to-achieve-your-dreams.html)
+- [25 Post-it Note DIY Ideas](https://www.nobiggie.net/25-post-it-note-diy-ideas)
+- [Unusual Post-it Notes](https://theverybesttop10.com/unusual-post-it-notes)
 
 
 
