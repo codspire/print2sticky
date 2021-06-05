@@ -48,8 +48,7 @@ _Follow the instructions on the Template sheet while loading it in the printer t
 [Letter Size](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fcodspire%2Fprint2sticky%2Fdevelop%2Fassets%2FPrint2Sticky_Letter_Editable.drawio)  OR  [A4 Size](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fcodspire%2Fprint2sticky%2Fdevelop%2Fassets%2FPrint2Sticky_A4_Editable.drawio)
 
 ### 5. Print It
-
-TODO: Checkout the picture gallery (short video/gif)
+See some [examples](./SAMPLES.md)
 
 ----
 
